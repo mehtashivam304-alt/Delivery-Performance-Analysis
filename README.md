@@ -37,3 +37,15 @@ Note: Results may vary with dashboard filters.
 Author
 Shivam Mehta  
 Final-Year B.Tech CSE | Aspiring Data Analyst & Data Science Enthusiast
+
+
+ Dashboard Preview
+
+ 1. Executive Overview
+![Executive Overview](executive-overview.png)
+
+ 2. Delay Analysis
+![Delay Analysis](Delay%20Analysis.png)
+
+ 3. Cost & Operations Analysis
+![Cost & Operations](cost-operations.png)
